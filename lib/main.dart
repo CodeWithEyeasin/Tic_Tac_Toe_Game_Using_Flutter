@@ -12,7 +12,7 @@ class TicTacToeGame extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: SplashScreen(),
+      home: SplashScreen() ,
     );
   }
 }

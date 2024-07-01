@@ -36,7 +36,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   shape: BoxShape.circle
                 ),
                 child: Image.asset('assets/logo.png',)),
-            const Text('Kata Kati Game',style: TextStyle(
+            const Text('Tic Tac Toe',style: TextStyle(
               fontWeight: FontWeight.bold,
               fontSize: 30,
               color: Colors.white

@@ -134,7 +134,7 @@ class _GameScreenState extends State<GameScreen> {
               ),
             ),
             Container(
-              height: 428,
+              height: 432,
               decoration: BoxDecoration(
                 color: const Color(0xFF5F6B84),
                 borderRadius: BorderRadius.circular(10),
